@@ -1,0 +1,1 @@
+# Take-a-input-from-the-user-checks-whether-the-value-divisible-by-7-or-not.-
